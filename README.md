@@ -1,10 +1,8 @@
 ## Hi there 👋
 
-I'm Robert, a software developer and designer from Vancouver. My inexhaustible curiosity and love for digital media led me to attend Simon Fraser University (SFU), where I earned my Bachelor's Degree of Science with a major in Interactive Arts & Technology.
+I'm a software developer with an interdisciplinary skillset, based in Vancouver. I build full-stack products and interactive experiences, using frameworks like Unity, Flutter and React. I strive to create impactful experiences for users through an iterative design process.
 
-I've prototyped, designed, and developed various interactive applications throughout my career, covering everything from XR to web development. These experiences have shaped me into a designer who emphasizes a user-goal-driven approach, a developer who values scalability and accessibility, and an expert in rapid prototyping.
-
-Nowadays I work as a Software Developer at [Qwadra](https://qwadra.com/) Vancouver, developing digital O&P technologies. I also occasionally work on personal projects, like my Flutter app [Tourguide](https://tourguide.rmichels.com/). Before that, I spent 3 years working as a Mixed Reality Software Developer at Clirio, where I developed cross-platform XR GIS apps in Unity with C#, and got to work with technologies like MRTK, Blazor and Three.js.
+I currently work as a Software Developer at [Qwadra](https://qwadra.com/) Vancouver, developing digital O&P technologies with C++. I also occasionally work on personal projects, like my Flutter app [Tourguide](https://tourguide.rmichels.com/). Before that, I spent 3 years working as a Mixed Reality Software Developer at Clirio, where I developed cross-platform XR GIS apps in Unity with C#, and got to work with technologies like MRTK, Blazor and Three.js.
 
 **Contact me if you would like to make cool stuff together! I'm always open to exploring interesting projects.**
 
